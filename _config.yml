@@ -1,11 +1,11 @@
 # Site settings
 author: Bruce Hillsworth
-title: 
+title: Bruce's Bytes
 header-img: img/home-bg.png
 email: bruce.hillsworth@gmail.com
 copyright_name: Bruce Hillsworth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Full Stack Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hillswor
