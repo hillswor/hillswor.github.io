@@ -12,7 +12,7 @@ Today we will be walking through the RESTful Index Action Lab which is part of t
 
 We will start with the first failing test.  We have a Student model but there is no route for a student index page and there is no Student controller.  The first thing we need to do is add the route.  Routes are in the config folder in the routes.rb file.
 
-![](https://i.imgur.com/Wyhkk6e.png)
+![] (https://i.imgur.com/Wyhkk6e.png)
 
 We could use resourceful routing here but for the sake of simplicity, we will just add the singular route the tests are looking for.
 
