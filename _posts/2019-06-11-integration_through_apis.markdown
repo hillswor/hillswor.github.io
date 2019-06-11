@@ -1,0 +1,8 @@
+---
+layout: post
+title:      "Integration Through API's"
+date:       2019-06-11 18:13:00 +0000
+permalink:  integration_through_apis
+---
+
+API is an acronym for "Application Programming Interface".  It may sound daunting but API's are, in fact, simple in theory and essential in a future of interactive applications.  In essence, an API is a set of protocols that enables two applications to work with each other and provide functionality or data to one another.  The benefit of this, is that it saves a programmer a great deal of time in writing code because they can pull functionality or vast amounts of data from already developed applications.  One of the most common ways this interaction appears is in signing up for new applications.  Most new applications will allow you to sign up via your Facebook account, Gmail account, Instagram account, etc.  Another example would be when you go to a business website and see their address pulled up on Google maps.  Typically, if an application provides an API, they will also provide documentation that explains what type of data and functionality can be accessed and how to access it through your application.  Unlike data scraping, API's are more reliable and less prone to errors.  API's typically follow the same pattern in that you make a call to the API and request information.  Almost all API's are free but some of them do place restrictions on the number of calls you can make within a certain period of time.  While API's are expensive for companies to establish and maintain, they can help their application proliferate as more third party applications become dependent upon them. 
