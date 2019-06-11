@@ -8,7 +8,7 @@ permalink:  restful_routing_lab
 
 Today we will be walking through the RESTful Index Action Lab which is part of the Rails Intro to REST section.  To begin, you will need to fork and clone the lab and run bundle install.  Once all the dependencies have loaded.  You will then run "rake db:create && rake db:migrate && rake db:seed".  Once that is done, run the test suite and there will be two failures.
 
-![screenshot1](https://i.imgur.com/jSI9tFp.png.jpg)
+![Screen Shot 1](https://i.imgur.com/jSI9tFp.png)
 
 We will start with the first failing test.  We have a Student model but there is no route for a student index page and there is no Student controller.  The first thing we need to do is add the route.  Routes are in the config folder in the routes.rb file.
 
