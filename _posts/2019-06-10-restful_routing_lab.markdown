@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RESTful Routing Lab"
-date:       2019-06-11 03:50:51 +0000
+date:       2019-06-10 23:50:52 -0400
 permalink:  restful_routing_lab
 ---
 
